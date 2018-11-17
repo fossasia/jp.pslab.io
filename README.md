@@ -79,7 +79,7 @@
 <tbody>
 <tr>
 <td colspan="2">
-<div class="thumbnail">[![Pocket Science Lab ベアボーンボード](./imh/PSLab_thumbnail.jpg)]./img/PSLab.jpg) </div>
+<img alt="Pocket Science Lab ベアボーンボード" src="img/PSLab_small.jpg">]
 </td>
 </tr>
 <tr>
@@ -105,7 +105,8 @@
 </tr>
 <tr>
 <th>数量</th>
-<td>[ssci.to/4103](http://ssci.to/4103)</td>
+<td><a href="ssci.to/4103">ssci.to/4103</a>
+</td>
 </tr>
 <tr>
 <th>在庫</th>
