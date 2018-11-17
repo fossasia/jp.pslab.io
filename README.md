@@ -79,7 +79,7 @@
 <tbody>
 <tr>
 <td colspan="2">
-<img alt="Pocket Science Lab ベアボーンボード" src="img/PSLab_small.jpg">]
+<img alt="Pocket Science Lab ベアボーンボード" src="img/PSLab_small.jpg">
 </td>
 </tr>
 <tr>
