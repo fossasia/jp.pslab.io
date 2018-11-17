@@ -87,16 +87,8 @@
 <td>Pocket Science Lab ベアボーンボード</td>
 </tr>
 <tr>
-<th>Code</th>
-<td>FOSSASIA-PSLAB-BB</td>
-</tr>
-<tr>
-<th>SKU#</th>
-<td>4103</td>
-</tr>
-<tr>
 <th>Shipping</th>
-<td><span style="text-decoration:underline;" class="tooltip-1">150</span></td>
+<td>150</td>
 </tr>
 <tr>
 <th>税込単価</th>
