@@ -96,8 +96,8 @@
 </td>
 </tr>
 <tr>
-<th>数量</th>
-<td><a href="ssci.to/4103">ssci.to/4103</a>
+<th>ここに注文する</th>
+<td><a href="http://ssci.to/4103">ssci.to/4103</a>
 </td>
 </tr>
 </tbody>
