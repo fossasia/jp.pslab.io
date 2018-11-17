@@ -100,9 +100,5 @@
 <td><a href="ssci.to/4103">ssci.to/4103</a>
 </td>
 </tr>
-<tr>
-<th>在庫</th>
-<td>16 （即日出荷可能）</td>
-</tr>
 </tbody>
 </table>
